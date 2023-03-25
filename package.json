@@ -1,0 +1,29 @@
+{
+  "name": "my-react-learnings",
+  "version": "1.0.0",
+  "description": "Raja Nandini react app",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanandini1999/my-react-learnings.git"
+  },
+  "author": "rajanandini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanandini1999/my-react-learnings/issues"
+  },
+  "homepage": "https://github.com/rajanandini1999/my-react-learnings#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

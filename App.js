@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client'
+
 //This is how we create elements using react
 const parent = React.createElement("div", {id:"parent"}, [
     React.createElement("div", {id:"child"}, [
@@ -7,3 +10,5 @@ const parent = React.createElement("div", {id:"parent"}, [
 ]);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
+
+//https://artifacthub-phx.oci.oraclecorp.com/api/npm/npmjs-remote
